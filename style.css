@@ -172,7 +172,7 @@ section {
 
 .section__pic-container {
   display: flex;
-  height: 400px;
+  height: 100px;
   width: 400px;
   margin: auto 0;
 }
@@ -358,6 +358,7 @@ article .icon {
 
 #projects {
   position: relative;
+  
 }
 
 .color-container {
@@ -367,8 +368,8 @@ article .icon {
 
 .project-img {
   border-radius: 1rem;
-  width: 90%;
-  height: 90%;
+  width: 30%;
+  height: 30%;
 }
 
 .project-title {
